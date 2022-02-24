@@ -52,4 +52,4 @@ Instead, open VS Code from Windows and click on the lower left icon, then choose
 
 You may also want to install the [C/C++ VS Code extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) if not already, to get more perks!
 
-### Hope this is useful, have coding!
+### Hope this is useful, happy coding!
