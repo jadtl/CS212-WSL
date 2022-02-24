@@ -1,8 +1,9 @@
 # Possible workflow for CS212 on Windows: WSL and VSCode
 
-### Windows Subsystem for Linux (WSL) allows to run Linux binaries natively on Windows, and using Visual Studio Code, you can develop for Linux using it, let's see how to set this up:
+### Windows Subsystem for Linux (WSL) allows to run Linux binaries natively on Windows, and using Visual Studio Code, one can work on projects for Linux, let's see how to set this up:
 
 ## Install a Windows Subsystem for GNU/Linux distribution
+- [Follow](https://progmaph.epfl.ch/series/Ubuntu_sous_Windows.pdf) the course's instructions to enable WSL, i.e. until step 3. 
 - Get the Ubuntu WSL (No Arch for today...) from [here](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6).
 
 - Open it and enter a username and password to set it up. (Beware! The password's characters are invisible)
